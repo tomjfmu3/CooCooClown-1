@@ -1,5 +1,9 @@
 CooCooClown
 
+Itch IO Download:
+https://shipgh.itch.io/coo-coo-clown
+
+
 A FPS game styled in 90s Doom theme.
 The Player has been kidnapped by a bunch of evil clowns and has to escape.
 There are 3 levels.
