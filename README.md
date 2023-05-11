@@ -13,9 +13,9 @@ E1M2 - The Carnival.
 E1M3 - The Arena.
 
 Guns used in the game:
-Pistol.
-Polka Shotgun.
-Confetti Zapper.
+Pistol,
+Polka Shotgun,
+Confetti Zapper,
 Chainsaw.
 
 Enemies:
